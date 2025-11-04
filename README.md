@@ -1,3 +1,10 @@
+# 👨‍💻 Author
+
+Rahul Issar
+Semester - 5th 
+B.Tech CSE (Cybersecurity Specialization)
+
+
 # Cloud-Server-Hardening
 Cloud Server Hardening &amp; Secure Access (Ubuntu, UFW, Fail2ban, Auditd)
 
