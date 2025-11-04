@@ -58,7 +58,7 @@ ssh-keygen -t ed25519 -C "rahul@project2" -f C:\Users\rahul\.ssh\project2_key
 Public key added to VM:
 
 sudo mkdir -p /home/adminuser/.ssh
-echo "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKHH8UT2rlfkvb5zK4h0Ww/9T2pI5oJZPr3ynuvnWaXi rahul@project2" | sudo tee /home/adminuser/.ssh/authorized_keys
+echo "ADD YOUR KEY" | sudo tee /home/adminuser/.ssh/authorized_keys
 sudo chown -R adminuser:adminuser /home/adminuser/.ssh
 sudo chmod 700 /home/adminuser/.ssh
 sudo chmod 600 /home/adminuser/.ssh/authorized_keys
