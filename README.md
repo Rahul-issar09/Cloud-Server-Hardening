@@ -5,6 +5,22 @@
 **ERP – 6604685**  
 **B.Tech CSE (Cybersecurity Specialization)**
 
+## 📸 Deliverables (Screenshots)
+
+### 1️⃣ Disabled Root Login
+![Disabled Root Login](./1_sshd_config.png)
+![Disabled Root Login](./sshd_config.png)
+![Disabled Root Login](./_sshd_config.png)
+
+### 2️⃣ UFW Active Status
+![UFW Status](./2_ufw_status.png)
+
+### 3️⃣ Fail2ban Ban Logs
+![Fail2ban Logs](./3_fail2ban_logs.png)
+
+### 4️⃣ Auditd Log Sample
+![Auditd Logs](./4_auditd_logs.png)
+
 
 # Cloud-Server-Hardening
 Cloud Server Hardening &amp; Secure Access (Ubuntu, UFW, Fail2ban, Auditd)
