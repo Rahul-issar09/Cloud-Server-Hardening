@@ -33,6 +33,8 @@ The goal is to **limit SSH access**, **create IAM-like user roles**, **apply str
 
 ---
 
+![VM Instance](./VM.png)
+
 ## ☁️ Environment Setup
 
 | Component | Details |
