@@ -24,8 +24,10 @@ The goal is to **limit SSH access**, **create IAM-like user roles**, **apply str
 
 ## ⚙️ Step-by-Step Implementation
 
- 1️⃣ System Update
- 
+```bash
+
+1️⃣ System Update
+
 sudo apt update && sudo apt upgrade -y
 sudo apt install vim curl unzip htop -y
 
