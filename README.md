@@ -52,7 +52,6 @@ Created a new user adminuser with administrative (sudo) privileges using a secur
 3️⃣ Enable SSH Key Authentication
 
 SSH key pair generated locally on Windows:
-
 ssh-keygen -t ed25519 -C "rahul@project2" -f C:\Users\rahul\.ssh\project2_key
 
 Public key added to VM:
